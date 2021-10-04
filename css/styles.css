@@ -1,0 +1,195 @@
+.topcont
+{
+  background-color: #F9D5A7;
+  height: 500px;
+  width: 100%;
+  position: relative;
+  margin: 0;
+  display: block;
+  top: 0;
+  bottom: 0;
+}
+.frontname
+{
+  position: absolute;
+  top: 150px;
+  left: 150px;
+  background-color:#000000;
+  border-radius: 20px;
+  padding: 20px;
+
+
+}
+
+.middlecont
+{
+  height: 600px;
+  width: 100%;
+  background-color:yellow;
+  margin:0;
+  padding: 0;
+  position: relative;
+}
+
+.bottomcont
+{
+  height: 120px;
+  width: 100%;
+  background-color:yellow;
+  margin:0;
+  padding: 0;
+  position: relative;
+}
+
+
+body{
+  margin: 0;
+  text-align: center;
+}
+
+.intro
+{
+    color: white;
+
+}
+
+
+.bgfront
+{
+  height: 500px;
+  width: 100%;
+}
+
+.image
+{
+  height: 320px;
+  width: 320px;
+  position: absolute;
+  right: 100px;
+  top: 100px;
+
+
+}
+
+.profilepic
+{
+  border: solid;
+  border-radius: 200px;
+  border-width: 5px;
+  border-color: purple;
+  height: 300px;
+  width: 300px;
+}
+
+.skillhead
+{
+  top: 20px;
+  left: 20px;
+  margin: 0;
+  padding: 0;
+  position: absolute;
+}
+
+.skillbox1
+{
+  border-radius: 20px;
+  margin: 10px;
+  position: absolute;
+  top: 80px;
+  left: 100px;
+  height: 200px;
+  width: 500px;
+  border: solid;
+
+}
+.skillbox2
+{
+  border-radius: 20px;
+  margin:10px;
+  position: absolute;
+  top: 35%;
+  right: 100px;
+  height: 200px;
+  width: 500px;
+  border: solid;
+
+
+}
+.skillbox3
+{
+  border-radius: 20px;
+  margin: 10px;
+  position: absolute;
+  top: 340px;
+  bottom: 10px;
+  border: solid;
+  left: 100px;
+  height: 200px;
+  width: 500px;
+
+
+}
+.skill1
+{
+  position: relative;
+
+}
+.clogo
+{
+  padding: 5px;
+  height: 100px;
+  width: 100px;
+
+}
+p
+{
+
+  padding: 5px;
+  font-size: 40;
+  text-align: left;
+}
+.skillbackground
+{
+  position: relative;
+  width: 100%;
+  height: 600px;
+}
+.follow
+{
+  top: 20px;
+  left: 20px;
+  margin: 0;
+  padding: 0;
+  position: absolute;
+}
+
+.connect
+{
+  top: 20px;
+  left: 500px;
+  position: absolute;
+}
+
+.smlinks
+{
+  padding: 5px;
+  height: 50px;
+  width: 50px;
+  border-radius: 200px;
+  border: solid;
+}
+.smlinks :selection
+{
+  background-color: red;
+}
+.smlinks :hover
+{
+  background-color: blue;
+}
+
+.folback
+{
+  height: 120px;
+  width: 100%;
+  position: relative;
+}
